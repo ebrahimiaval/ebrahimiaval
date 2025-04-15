@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+body {
+  background: #212830;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  color: #478be6;
+  text-underline-offset: 0.2rem;
+}
+
+img {
+  max-width: 80vw;
+}
