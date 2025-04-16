@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **m.ebrahimiaval@gmail.com** / [linkedin](https://linkedin.com/in/ebrahimiaval) / [ebrahimiaval.ir](https://ebrahimiaval.ir)
 
-- 📄 Know about my experiences [resume-v1.0.0.pdf](https://ebrahimiaval.ir/public/mohammad-mohammad-ebrahimi-aval-frontend-developer-resume-v1.0.0.pdf)
+- 📄 Know about my experiences [resume-v1.0.0.pdf](https://ebrahimiaval.ir/mohammad-mohammad-ebrahimi-aval-frontend-developer-resume-v1.0.0.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
