@@ -54,7 +54,7 @@ export default function Home() {
         <li className="text-gray-300">
           📄 Know about my experiences:
           <a
-            href="https://ebrahimiaval.ir/public/mohammad-mohammad-ebrahimi-aval-frontend-developer-resume-v1.0.0.pdf"
+            href="https://ebrahimiaval.ir/mohammad-mohammad-ebrahimi-aval-frontend-developer-resume-v1.0.0.pdf"
             className="text-blue-400 hover:text-blue-300 ml-1"
           >
             resume-v1.0.0.pdf
