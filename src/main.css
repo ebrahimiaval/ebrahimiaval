@@ -1,9 +1,7 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 body {
   background: #212830;
   color: #fff;
-  display: flex;
-  justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 

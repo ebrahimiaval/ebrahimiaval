@@ -1,11 +1,11 @@
-import { SyntheticEvent } from 'react';
+import { SyntheticEvent } from "react";
 
-function App() {
+export default function Home() {
   const onImageErrorHandler = (e: SyntheticEvent<HTMLImageElement>) =>
-    (e.currentTarget.style.display = 'none');
+    (e.currentTarget.style.display = "none");
 
   return (
-    <div className="max-w-4xl mx-auto p-4">
+    <div className="d-flex justify-center max-w-4xl mx-auto p-4">
       <img
         className="w-32 h-32 rounded-full mx-auto mb-4"
         src="https://avatars2.githubusercontent.com/u/9008892?s=460&v=4"
@@ -237,5 +237,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
